@@ -1,0 +1,4 @@
+<resources>
+    <string name="gyro_string">x=%1f y= %2$f z= %3$f</string>
+    <string name="app_name">Motion sensor</string>
+</resources>
